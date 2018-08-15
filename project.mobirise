@@ -28,7 +28,9 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#97bc6f"
+        "#97bc6f",
+        "#b7cf5a",
+        "#638143"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -41,7 +43,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "GCL MUSCAT",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
